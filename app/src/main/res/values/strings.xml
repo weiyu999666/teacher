@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">teacher</string>
+
+    <string-array name="status_array">
+        <item>Full Time</item>
+        <item>Part Time</item>
+    </string-array>
+
+</resources>
